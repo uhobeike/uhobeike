@@ -1,5 +1,6 @@
 # uhobeike
-[![Build Status](https://travis-ci.org/uhobeike/travis_batch.svg?branch=master)](https://travis-ci.org/uhobeike/travis_batch)
+[![bu](https://img.shields.io/badge/build-passing-brightgreen)]
+
 ## Features
 ・I'm doing various things using ros　:video_game:
 
