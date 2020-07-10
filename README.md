@@ -3,7 +3,7 @@
 ## Features
 ・I'm doing various things using ros　:video_game:
 
-・Mainly interested in autonomous mobile robots　:robot_face:
+・Mainly interested in autonomous mobile robots　🤖
 
 ・Studying outdoor robots　:car:
 
