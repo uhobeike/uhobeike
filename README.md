@@ -5,12 +5,4 @@
 [![Kicad](https://img.shields.io/badge/Kicad-BEIKE-yellow)](https://inventhub.io/public/profile/beike)
 
 ## Features
-・I'm doing various things using ros　:video_game:
-
-・Mainly interested in autonomous mobile robots　🤖
-
-・Studying outdoor robots　:car:
-
-・Also studying circuit system　:electric_plug:
-
-・I can't finish what I want to do　🥺:sweat:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uhobeike)](https://github.com/anuraghazra/github-readme-stats)
